@@ -1,0 +1,7 @@
+pipecat
+pipeline
+pandas
+transformers
+pip install tensorflow
+pip install torch torchvision torchaudio
+pip install tf-keras
