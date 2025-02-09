@@ -1,1 +1,1 @@
-
+Final Model Description:This final model implements a complete asynchronous pipeline that reads text data from a CSV, cleans and preprocesses each row, performs sentiment analysis using a pre-trained Hugging Face transformer, and outputs the results (original text, sentiment, and score) to a new CSV file. It’s designed for efficient, real-time processing with robust error handling and modular processing stages.
