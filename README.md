@@ -165,3 +165,6 @@ Broader Application Domains:
 While this example focuses on text sentiment analysis, the Pipecat framework’s flexibility means it could be adapted for use in voice-enabled assistants, real-time video processing, or integrated into broader conversational AI systems.
 
 By installing the necessary dependencies (pandas, transformers, torch, and pipecat-ai) and adjusting the processors as needed, you can quickly adapt this pipeline to your specific use case while also having ample scope for future enhancements.
+
+reference- https://github.com/pipecat-ai/pipecat/blob/dee5448b5768f789d5cf4c67a35a1716be0f105e/src/pipecat/pipeline/pipeline.py
+reference - https://github.com/pipecat-ai/pipecat
