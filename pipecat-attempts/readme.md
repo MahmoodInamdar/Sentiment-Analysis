@@ -1,1 +1,1 @@
-
+Attempts Description:These attempts represent earlier experimental versions of the code, where various approaches for reading, cleaning, and analyzing the text data were explored. They served as prototypes to test individual components and overall design before integrating them into the final, fully functional model.
