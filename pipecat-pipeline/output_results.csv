@@ -1,0 +1,11 @@
+text,sentiment,score
+I love this product!,positive,0.9860804677009583
+This is the worst experience I've had.,negative,0.9761806130409241
+"It was okay, not bad not good.",positive,0.8540970087051392
+Absolutely fantastic service!,positive,0.9081303477287292
+I'm not sure how I feel about this.,neutral,0.5835577845573425
+"It was okay, not bad not good.",positive,0.8540970087051392
+Very satisfied with the quality.,positive,0.8973236680030823
+"Very poor service, will not buy again.",negative,0.9704445600509644
+"It's okay, nothing special.",neutral,0.531373143196106
+Highly recommend this to everyone.,positive,0.9299788475036621
