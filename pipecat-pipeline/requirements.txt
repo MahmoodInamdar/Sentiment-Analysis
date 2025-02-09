@@ -1,0 +1,5 @@
+pandas
+pipecat-ai
+transformers
+pytorch-lightning
+tf-keras
